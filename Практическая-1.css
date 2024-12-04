@@ -1,0 +1,29 @@
+.wid{text-align: center;font-size: 20px;background-color: slategrey;color: cornsilk;}
+.kart{width: 300px;height: 300px;}
+.rasp{
+    font-size: 15px;
+    text-align: center;
+     font-family: cursive;
+     border-collapse: collapse;
+     border: 2px solid violet;
+}
+.koft{border-collapse: collapse;
+    border: 2px solid violet;
+}
+.fist{background-color: salmon;}
+.kont{
+    width: 125px;
+    height: 125px;
+    border-radius: 100px;
+}
+html{
+    scroll-behavior: smooth;
+}
+td{width: 150px;}
+.ziv{border: 2px solid yellow;}
+.lost{font-size: 15px;
+    text-align: center;
+     font-family: cursive;
+     border-collapse: collapse;
+     border: 2px solid violet;
+    }
